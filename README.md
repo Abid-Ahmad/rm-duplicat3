@@ -2,7 +2,7 @@
 # Remove Duplicate Domain or URL from a File & get Clean File
 ##
 
-### Have not enough time to make a beautiful README.md, Its Coding Time
+### Have not enough time to make a beautiful README.md, It's Coding Time
 #
 #
 ## Duplicate List:
